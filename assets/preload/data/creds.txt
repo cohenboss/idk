@@ -1,0 +1,12 @@
+PolyEngine
+PolybiusProxy - Lead programmer.
+TRSF2.0 - also programmer.
+Idiocrasy - Artist for Dark assets in mod example.
+
+Shoutouts
+BrightFyre - Tester.
+RapperGF - Helping with input fix.
+datee - Developing HaxeVLC (all the contents in the 'vlc' folder belongs to datee).
+Frozen - Making nice additions to the engine.
+u/Henry34111 - Making the loading art.
+The VideoLAN team - Making the VLC media player.
